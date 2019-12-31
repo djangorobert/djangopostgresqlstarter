@@ -4,4 +4,4 @@ A quick Bare Bones Project of Django Framework with Postgresql being used as you
 
 ![Alt text](djangopostgrespic.GIF?raw=true)
 
-![Alt text](postgres pic.GIF?raw=true)
+![Alt text](postgrespic.GIF?raw=true)
